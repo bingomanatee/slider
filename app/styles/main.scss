@@ -1,0 +1,9 @@
+@import 'slider';
+
+#slider-test-region {
+  position: absolute;
+  .inner {
+    width: 300px;
+    margin: 2rem;
+  }
+}
